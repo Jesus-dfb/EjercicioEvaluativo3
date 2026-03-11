@@ -1,0 +1,8 @@
+Me puedes dar la ruta para llamar a la API GEOJSON
+
+Como me recomiendas organizar la estructura de esta página (me recomendó usando grid, dividiendo en 12 columnas) 
+
+Quiero que el sidebar tenga su propio scroll
+
+Genera un Login con SweetAlert2
+
